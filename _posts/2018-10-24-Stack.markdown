@@ -4,4 +4,15 @@ title:  "[C++] Stack"
 date:   2018-10-24 18:46:32 +0900
 categories: C++, Stack
 ---
-자 너가 원하던 대로 다 날리고 다시 만들었다. 이래도 마스터랑 같다고 우길래? 대체 왜 안 되는 걸까... 화난다 화나..
+자 너가 원하던 대로 다 날리고 다시 만들었다. 이래도 마스터랑 같다고 우길래? 대체 왜 안 되는 걸까... 화난다 화나..저장을 안 해야 하는 부분인가
+
+#include <iostream>
+
+{% highlight ruby %}
+#include <iostream>
+
+using namespace std;
+
+{% endhighlight %}
+
+여기까지가 테스트 부분입니다. 답답
